@@ -1,0 +1,11 @@
+#!/bin/bash
+javac ./classes/FileInstance.java
+echo "FileInstance.java ok"
+javac ./classes/FileInstance.java
+echo "TypeOfFile.java ok"
+javac ./classes/TypeOfFile.java
+echo "TypeOfFile.java ok"
+javac ./classes/MainMenu.java
+echo "MainMenu.java ok"
+javac ./FileReader.java
+echo "FileReader.java ok"
